@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 7663
+  controlID: 14332
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 7677
+  controlID: 14333
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 7678
+  controlID: 14334
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -293,13 +293,13 @@ MonoBehaviour:
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 04000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -808
-    m_HBaseRangeMax: 808
+    m_HBaseRangeMin: -727.2
+    m_HBaseRangeMax: 727.2
     m_VBaseRangeMin: -454.5
     m_VBaseRangeMax: 454.5
     m_HAllowExceedBaseRangeMin: 1
@@ -368,9 +368,9 @@ MonoBehaviour:
     height: 631
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: ccc4fbffb497fcffce05fdff3c0efdffac11fdff9414fdffcc18fdff681bfdffba1dfdff0020fdff9e22fdffa0a2fdff9292ffff1afcffff000000001c260000
+    m_SelectedIDs: 54f9f7ff
+    m_LastClickedID: -525996
+    m_ExpandedIDs: c4cff9ff7026fbffcc30fbffe849fbff2a54fbff227afeff5e44ffff1afcffff0000000046360000b44000005453000078560000b05c0000705e0000426100008e610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -420,14 +420,14 @@ MonoBehaviour:
     width: 1136
     height: 631
   m_SceneLighting: 1
-  lastFramingTime: 2405.3906264857133
+  lastFramingTime: 3958.3937900584874
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.150341, y: -0.6817034, z: -6.8125}
+    m_Target: {x: -10.201258, y: 2.6244166, z: -6.8125}
     speed: 2
-    m_Value: {x: -8.150341, y: -0.6817034, z: -6.8125}
+    m_Value: {x: -10.201258, y: 2.6244166, z: -6.8125}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -454,9 +454,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10.04277
+    m_Target: 7.44007
     speed: 2
-    m_Value: 10.04277
+    m_Value: 7.44007
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -568,10 +568,10 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\slowpoke\Documents\GitHub\SSG-Zoo\Zoo
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: 7e400000
-    m_LastClickedID: 16510
-    m_ExpandedIDs: 0e260000722600001e3b00006e400000b041000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 315}
+    m_SelectedIDs: f02a0000
+    m_LastClickedID: 10992
+    m_ExpandedIDs: 0000000010260000d426000006270000f0280000c0290000ba2a0000c42b0000762c000020310000604a0000204b0000524b00007a4b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -599,7 +599,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: fc280000
     m_LastClickedID: 10492
-    m_ExpandedIDs: 0e260000722600001e3b00006e400000b041000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000010260000d426000006270000f0280000c0290000ba2a0000c42b0000762c000020310000604a0000204b0000524b00007a4b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -651,7 +651,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 210}
     m_GridSize: 86
   m_DirectoriesAreaWidth: 438
 --- !u!114 &18
